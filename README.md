@@ -14,6 +14,8 @@ Clone this repository.
 
 Open your web browser of choice and view first-webpage.html
 
+This can also be found on Github Pages: [Click Here] (https://yapdan.github.io/git-practice-webpage1/first-webpage.html)
+
 ## Technologies Used
 
 * HTML
